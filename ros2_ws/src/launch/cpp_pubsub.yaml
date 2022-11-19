@@ -1,0 +1,20 @@
+launch:
+
+- arg:
+    name: "freq_changed"
+    default: "6.0"
+
+- node:
+    pkg: "cpp_pubsub" #pkg: "beginner_tutorials"
+    exec: "talker"
+
+    
+    param:
+    -
+      name: "freq"
+      value: "$(var freq_changed)"
+
+- node:
+    pkg: "cpp_pubsub" #pkg: "beginner_tutorials"
+    exec: "listener"
+

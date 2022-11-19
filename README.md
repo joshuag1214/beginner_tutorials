@@ -29,3 +29,24 @@ ros2 run cpp_pubsub listener
 ```
 
 To stop either function, press CTRL+C in the respective terminal to shut it down. 
+
+To use launch file, making the with a frequency of 6hz
+```
+. install/setup.bash
+ros2 launch src/launch/cpp_pubsub.yaml
+```
+
+To manually enter a frequency for the publisher.
+Example below for 4.0 Hz
+```
+ros2 param set /minimal_publisher freq 4.0
+```
+
+### **rqt_console Capture**
+The rqt_console capture is saved as a png called capture_rqt_console.png  
+
+You can see the info and warning logging levels  
+
+### **Know Issues**
+Extra service could not be implemented correctly  
+Logging methods were implemmented but frequency could not be changed to a default. Program will continue to run with undesired frequency.  
