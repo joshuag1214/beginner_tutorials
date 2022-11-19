@@ -49,4 +49,4 @@ You can see the info and warning logging levels
 
 ### **Know Issues**
 Extra service could not be implemented correctly  
-Logging methods were implemmented but frequency could not be changed to a default. Program will continue to run with undesired frequency.  
+Logging methods were implemented but frequency could not be changed to a default. Program will continue to run with undesired frequency.  
