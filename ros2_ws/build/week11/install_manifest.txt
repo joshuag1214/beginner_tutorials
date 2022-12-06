@@ -1,0 +1,15 @@
+/home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/lib/week11/talker
+/home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/lib/week11/listener
+/home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/share/ament_index/resource_index/package_run_dependencies/week11
+/home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/share/ament_index/resource_index/parent_prefix_path/week11
+/home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/share/week11/environment/ament_prefix_path.dsv
+/home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/share/week11/environment/path.dsv
+/home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/share/week11/local_setup.bash
+/home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/share/week11/local_setup.sh
+/home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/share/week11/local_setup.zsh
+/home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/share/week11/local_setup.dsv
+/home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/share/week11/package.dsv
+/home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/share/ament_index/resource_index/packages/week11
+/home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/share/week11/cmake/week11Config.cmake
+/home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/share/week11/cmake/week11Config-version.cmake
+/home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/share/week11/package.xml

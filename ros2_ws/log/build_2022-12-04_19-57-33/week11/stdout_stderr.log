@@ -1,0 +1,20 @@
+[35m[1mConsolidate compiler generated dependencies of target listener[0m
+[35m[1mConsolidate compiler generated dependencies of target talker[0m
+[100%] Built target talker
+[100%] Built target listener
+-- Install configuration: ""
+-- Up-to-date: /home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/lib/week11/talker
+-- Up-to-date: /home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/lib/week11/listener
+-- Up-to-date: /home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/share/ament_index/resource_index/package_run_dependencies/week11
+-- Up-to-date: /home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/share/ament_index/resource_index/parent_prefix_path/week11
+-- Up-to-date: /home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/share/week11/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/share/week11/environment/path.dsv
+-- Up-to-date: /home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/share/week11/local_setup.bash
+-- Up-to-date: /home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/share/week11/local_setup.sh
+-- Up-to-date: /home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/share/week11/local_setup.zsh
+-- Up-to-date: /home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/share/week11/local_setup.dsv
+-- Installing: /home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/share/week11/package.dsv
+-- Up-to-date: /home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/share/ament_index/resource_index/packages/week11
+-- Up-to-date: /home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/share/week11/cmake/week11Config.cmake
+-- Up-to-date: /home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/share/week11/cmake/week11Config-version.cmake
+-- Up-to-date: /home/linux/ENPM808X/beginner_tutorials/ros2_ws/install/week11/share/week11/package.xml
