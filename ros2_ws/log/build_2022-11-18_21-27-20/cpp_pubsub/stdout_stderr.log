@@ -1,0 +1,18 @@
+[35m[1mConsolidate compiler generated dependencies of target listener[0m
+[35m[1mConsolidate compiler generated dependencies of target talker[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/talker.dir/src/publisher_member_function.cpp.o[0m
+[ 75%] Built target listener
+[01m[K/home/linux/ENPM808X/beginner_tutorials/ros2_ws/src/cpp_pubsub/src/publisher_member_function.cpp:[m[K In constructor ‘[01m[KMinimalPublisher::MinimalPublisher()[m[K’:
+[01m[K/home/linux/ENPM808X/beginner_tutorials/ros2_ws/src/cpp_pubsub/src/publisher_member_function.cpp:60:37:[m[K [01;31m[Kerror: [m[Kcannot convert ‘[01m[Kstd::_Bind<void (MinimalPublisher::*(MinimalPublisher*, std::_Placeholder<3>))(const rclcpp::Parameter&)>[m[K’ to ‘[01m[Krclcpp::ParameterEventHandler::ParameterCallbackType[m[K’ {aka ‘[01m[Kstd::function<void(const rclcpp::Parameter&)>[m[K’}
+   60 |      add_parameter_callback("freq", [01;31m[KparamCallbackPtr[m[K);
+      |                                     [01;31m[K^~~~~~~~~~~~~~~~[m[K
+      |                                     [01;31m[K|[m[K
+      |                                     [01;31m[Kstd::_Bind<void (MinimalPublisher::*(MinimalPublisher*, std::_Placeholder<3>))(const rclcpp::Parameter&)>[m[K
+In file included from [01m[K/home/linux/ros2_humble/install/rclcpp/include/rclcpp/rclcpp/rclcpp.hpp:160[m[K,
+                 from [01m[K/home/linux/ENPM808X/beginner_tutorials/ros2_ws/src/cpp_pubsub/src/publisher_member_function.cpp:16[m[K:
+[01m[K/home/linux/ros2_humble/install/rclcpp/include/rclcpp/rclcpp/parameter_event_handler.hpp:224:27:[m[K [01;36m[Knote: [m[K  initializing argument 2 of ‘[01m[Krclcpp::ParameterCallbackHandle::SharedPtr rclcpp::ParameterEventHandler::add_parameter_callback(const string&, rclcpp::ParameterEventHandler::ParameterCallbackType, const string&)[m[K’
+  224 |     [01;36m[KParameterCallbackType callback[m[K,
+      |     [01;36m[K~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~[m[K
+gmake[2]: *** [CMakeFiles/talker.dir/build.make:76: CMakeFiles/talker.dir/src/publisher_member_function.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:139: CMakeFiles/talker.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

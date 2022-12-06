@@ -1,0 +1,9 @@
+[0mCMake Error: The current CMakeCache.txt directory /home/linux/ENPM808X/beginner_tutorials-Week10_HW_Release/ros2_ws/build/cpp_pubsub/CMakeCache.txt is different than the directory /home/linux/ENPM808X/beginner_tutorials/ros2_ws/build/cpp_pubsub where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt[0m
+/bin/sh: 1: cd: can't cd to /home/linux/ENPM808X/beginner_tutorials/ros2_ws/build/cpp_pubsub
+/bin/sh: 1: cd: can't cd to /home/linux/ENPM808X/beginner_tutorials/ros2_ws/build/cpp_pubsub
+gmake[2]: *** [CMakeFiles/talker.dir/build.make:194: CMakeFiles/talker.dir/depend] Error 2
+gmake[2]: *** [CMakeFiles/listener.dir/build.make:194: CMakeFiles/listener.dir/depend] Error 2
+gmake[1]: *** [CMakeFiles/Makefile2:164: CMakeFiles/listener.dir/all] Error 2
+gmake[1]: *** Waiting for unfinished jobs....
+gmake[1]: *** [CMakeFiles/Makefile2:138: CMakeFiles/talker.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2
